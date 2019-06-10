@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBridgeBuilderTUI", "SmartBridgeBuilderTUI\SmartBridgeBuilderTUI.csproj", "{59F6D15B-A006-4F3D-B547-CF133B444D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{3CF870CB-DAA1-4188-965E-EB9FB24028C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F6D15B-A006-4F3D-B547-CF133B444D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F6D15B-A006-4F3D-B547-CF133B444D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F6D15B-A006-4F3D-B547-CF133B444D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F6D15B-A006-4F3D-B547-CF133B444D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF870CB-DAA1-4188-965E-EB9FB24028C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF870CB-DAA1-4188-965E-EB9FB24028C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF870CB-DAA1-4188-965E-EB9FB24028C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF870CB-DAA1-4188-965E-EB9FB24028C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEDC73B5-6FFC-475A-B1F7-DD5542E33F64}
+	EndGlobalSection
+EndGlobal
